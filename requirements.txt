@@ -1,0 +1,6 @@
+streamlit
+llama-index
+transformers
+huggingface_hub
+torch
+sentence-transformers
