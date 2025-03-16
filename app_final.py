@@ -1,3 +1,4 @@
+!pip install llama-index
 # %%writefile app.py
 from llama_index.core import (
     StorageContext,
